@@ -9,6 +9,8 @@ public class StuMainFrameTest {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		JFrame.setDefaultLookAndFeelDecorated(true);
+		JDialog.setDefaultLookAndFeelDecorated(true);
 		new StuMainFrame();
 	}
 
