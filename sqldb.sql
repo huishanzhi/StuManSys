@@ -1,1 +1,1 @@
-create table STUDENT
+create table STUDENT()
